@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="741px" height="44px" viewBox="0 0 741 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>section-4-platform-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="23.9884738%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#070D30" offset="0%"></stop>
+            <stop stop-color="#B19D81" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="manor-landing-v2" transform="translate(-346.000000, -5012.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <polygon id="section-4-platform-icon" transform="translate(716.357584, 5033.912746) scale(-1, 1) translate(-716.357584, -5033.912746) " points="945.105616 5021.35043 948.044771 5012.04957 1086.41917 5055.77711 346.295998 5055.77711 485.063472 5012.04838 487.995127 5021.35162 409.704002 5046.02289 1023.18083 5046.02289"></polygon>
+        </g>
+    </g>
+</svg>

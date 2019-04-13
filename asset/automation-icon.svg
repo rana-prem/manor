@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="55px" viewBox="0 0 49 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>automation-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="manor-landing-v2" transform="translate(-417.000000, -5105.000000)" stroke="#B19D81">
+            <g id="automation-icon" transform="translate(415.000000, 5106.000000)">
+                <polygon id="Polygon" stroke-width="1.62" points="26.55 0 49.5429745 13.275 49.5429745 39.825 26.55 53.1 3.55702553 39.825 3.55702553 13.275"></polygon>
+                <circle id="Oval-Copy-3" stroke-width="1.62" cx="26.55" cy="26.55" r="3.15"></circle>
+                <path d="M31.8488719,36 C34.8636684,34.1871187 36.9,30.7359478 36.9,26.7766584 C36.9,20.9353313 32.467619,16.2 27,16.2" id="Path" stroke-width="1.62" stroke-linecap="round"></path>
+                <path d="M21.1442702,17.1 C18.1691253,19.0160545 16.2,22.3496692 16.2,26.1414334 C16.2,32.0832257 21.0353247,36.9 27,36.9 L27,36.9" id="Path" stroke-width="1.62" stroke-linecap="round"></path>
+                <polyline id="Path-13" stroke-width="1.62" stroke-linecap="round" points="26.9271456 13.5 26.1 16.3647854 27 18.9"></polyline>
+                <polyline id="Path-13-Copy" stroke-width="1.41647616" stroke-linecap="round" points="26.1 34.2 27.9 37.0034336 26.1410472 39.6"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

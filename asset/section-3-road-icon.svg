@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="119px" viewBox="0 0 416 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>section-3-road-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="manor-landing-v2" transform="translate(-523.000000, -3042.000000)">
+            <g id="section-3-road-icon" transform="translate(523.000000, 3036.000000)">
+                <path d="M0.450520833,11.5 L173,11.5" id="Path-Copy-9" stroke="#B19D81" stroke-width="9.7542144" transform="translate(86.500000, 12.000000) scale(-1, 1) translate(-86.500000, -12.000000) "></path>
+                <path d="M243.450521,11.5 L416,11.5" id="Path-Copy-14" stroke="#B19D81" stroke-width="9.7542144" transform="translate(329.500000, 12.000000) scale(-1, 1) translate(-329.500000, -12.000000) "></path>
+                <path d="M213.5,18 L213.5,33" id="Path-Copy-10" stroke="#FFFFFF" stroke-width="2.5542144" transform="translate(213.500000, 25.500000) scale(-1, 1) translate(-213.500000, -25.500000) "></path>
+                <path d="M212.5,47 L212.5,71.7546577" id="Path-Copy-11" stroke="#FFFFFF" stroke-width="2.5542144" transform="translate(213.000000, 59.500000) scale(-1, 1) translate(-213.000000, -59.500000) "></path>
+                <path d="M212.5,90 L212.5,124.915165" id="Path-Copy-12" stroke="#FFFFFF" stroke-width="2.5542144" transform="translate(213.000000, 107.500000) scale(-1, 1) translate(-213.000000, -107.500000) "></path>
+                <polyline id="Path-Copy-7" stroke="#B19D81" stroke-width="9.7542144" transform="translate(127.000000, 68.500000) scale(-1, 1) translate(-127.000000, -68.500000) " points="84 12 170 110.234115 170 125"></polyline>
+                <polyline id="Path-Copy-8" stroke="#B19D81" stroke-width="9.7542144" points="247 12 333 110.234115 333 125"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
