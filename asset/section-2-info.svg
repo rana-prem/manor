@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="385px" height="59px" viewBox="0 0 385 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>section-2-info</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="manor-landing-v2" transform="translate(-534.000000, -1674.000000)">
+            <g id="section-2-info" transform="translate(534.000000, 1669.000000)">
+                <path d="M0,62.5 L385,62.5" id="red-line" stroke="#BC5031" stroke-width="1.838016"></path>
+                <path d="M0,61.75 L308,61.75" id="white-line" stroke="#FFFFFF" stroke-width="1.838016"></path>
+                <text id="80%" opacity="0.400000006" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="-1.212414" fill="#FFFFFF">
+                    <tspan x="131.474621" y="23">80%</tspan>
+                </text>
+                <text id="20%" opacity="0.400000006" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="-1.212414" fill="#FFFFFF">
+                    <tspan x="331.974621" y="23">20%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
